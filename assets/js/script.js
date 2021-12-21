@@ -1,6 +1,4 @@
-
-// Want to use or contribute to this? https://github.com/Glitchii/embedbuilder
-// If you found an issue, please report it, make a P.R, or use the discussion page. Thanks
+ks
 
 
 var params = new URL(location).searchParams,
