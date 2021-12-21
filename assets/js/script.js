@@ -1,5 +1,3 @@
-ks
-
 
 var params = new URL(location).searchParams,
     hasParam = param => params.get(param) !== null,
